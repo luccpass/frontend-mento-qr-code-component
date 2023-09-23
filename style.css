@@ -59,6 +59,9 @@ body {
 
 .card-component__content__title {
     margin-top: 25px;
+}
+
+.card-component__content__title > h1 {
     color: #14243E;
     font-size: 18px;
     font-weight: 600;
